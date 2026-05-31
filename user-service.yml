@@ -1,1 +1,5 @@
+server:
+  port: 8081
 
+message:
+  text: Welcome from Config Server
