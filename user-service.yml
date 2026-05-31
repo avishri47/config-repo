@@ -2,4 +2,4 @@ server:
   port: 9092
 
 message:
-  text: Welcome Varun from Config Server 
+  text: Welcome Sandeep from Config Server 
