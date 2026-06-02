@@ -1,0 +1,5 @@
+server:
+  port: 9092
+
+message:
+  text: Welcome Avinash shr from Config Server 
